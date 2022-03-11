@@ -1,0 +1,11 @@
+{
+  "name": "typescript-react-project",
+  "version": "1.0.0",
+  "description": "Typescipt and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Michael Hinojosa",
+  "license": "ISC"
+}
