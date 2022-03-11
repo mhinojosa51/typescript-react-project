@@ -4,7 +4,7 @@ import { FunctionComponent, StrictMode } from 'react';
 const App: FunctionComponent = () => {
     return (
         <StrictMode>
-            <div>React is Running</div>
+            <div>React</div>
         </StrictMode>
     )
 }
